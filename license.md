@@ -191,3 +191,6 @@ running the loader without administrator rights, or from another overlay
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
 *god-of-war-overlay-pack · Updated 2026-10-24 · Shared under the MIT License*
+
+
+Updated 2026-10-24.
